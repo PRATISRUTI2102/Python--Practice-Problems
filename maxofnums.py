@@ -1,0 +1,7 @@
+a = float(input("Enter number: "))
+b = float(input("Enter number: "))
+c = float(input("Enter number: "))
+d = float(input("Enter number: "))
+e = float(input("Enter number: "))
+maximum = max(a,b,c,d,e)
+print(maximum)
